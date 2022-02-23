@@ -1,1 +1,1 @@
-# TestProject 1.2.3.4.5
+# TestProject 1.2.3.4
